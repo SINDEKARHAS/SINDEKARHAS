@@ -1,4 +1,3 @@
-### Hi there 👋
 # 💫 About Me:
 🔭 I’m currently working on Hands-on Java full stack projects.<br>👯 I’m looking for opportunities in software development and database development.<br>🤝 I’m looking for help to upskills myself Cloud computing services.<br>🌱 I’m currently learning AWS and DevOps.<br>💬 Ask me about Java SE/EE.<br>⚡ Fun fact- I'm backstage artist.
 
